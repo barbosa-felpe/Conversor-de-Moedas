@@ -1,0 +1,3 @@
+Olá este projeto é um conversor de moedas.
+
+Ele está disponível para algumas moedas...
